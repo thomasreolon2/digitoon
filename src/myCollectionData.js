@@ -1,0 +1,231 @@
+export default myCollectionData = [
+  {
+    name: "Testing1",
+    id: 1,
+    pressStatus: false,
+    image: require("../backgrounds/rickandmorty.png"),
+    todos: [
+      {
+        title: "Ha1222",
+        idItem: 1,
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: false,
+        colors: [
+          {
+            idColor: 1,
+            color: "#000000",
+            artColor: require("../art/01/hair/hair1_dark.png"),
+          },
+          {
+            idColor: 2,
+            color: "#b0971c",
+            artColor: require("../art/01/hair/hair1.png"),
+          },
+          {
+            idColor: 3,
+            color: "#4287f5",
+            artColor: require("../art/01/hair/hair1.png"),
+          },
+        ],
+      },
+      {
+        title: "Hair2",
+        type: "hair",
+        idItem: 2,
+        art: require("../art/01/hair/hair2.png"),
+        completed: false,
+        colors: [
+          {
+            color: "#000000",
+            artColor: require("../art/01/hair/hair1_dark.png"),
+          },
+          {
+            color: "red",
+            artColor: require("../art/01/hair/hair1.png"),
+          },
+        ],
+      },
+    ],
+  },
+  {
+    name: "Testing2",
+    id: 2,
+    pressStatus: true,
+    image: require("../backgrounds/simpsons.png"),
+    todos: [
+      {
+        title: "dwwdw Tehst",
+        type: "hair",
+        idItem: 3,
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+        colors: [
+          {
+            color: "#000000",
+            artColor: require("../art/01/hair/hair1_dark.png"),
+          },
+          {
+            color: "#b0971c",
+            artColor: require("../art/01/hair/hair1.png"),
+          },
+        ],
+      },
+      {
+        title: "dwwdw Tehst",
+        type: "hair",
+        idItem: 4,
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+        colors: [
+          {
+            color: "#000000",
+            artColor: require("../art/01/hair/hair1_dark.png"),
+          },
+          {
+            color: "#b0971c",
+            artColor: require("../art/01/hair/hair1.png"),
+          },
+        ],
+      },
+      {
+        title: "dwwdw Tehst",
+        type: "hair",
+        idItem: 5,
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "dwwdw Tehst",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+    ],
+  },
+  {
+    name: "Testing3",
+    id: 3,
+    pressStatus: false,
+    image: require("../backgrounds/simpsons.png"),
+
+    todos: [
+      {
+        layer: 0,
+        title: "Thomm sds",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: false,
+      },
+      {
+        layer: 0,
+        title: "Passport chedck",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: false,
+      },
+      {
+        layer: 0,
+        title: "Book Tedsdsdt2",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "Book Testdsa2",
+        type: "hair",
+        art: require("../art/01/hair/hair1.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        title: "Hair3",
+        art: require("../art/01/hair/hair3.png"),
+        completed: true,
+      },
+      {
+        layer: 0,
+        type: "hair",
+        title: "Hair3",
+        art: require("../art/01/hair/hair3.png"),
+        completed: true,
+      },
+    ],
+  },
+];
