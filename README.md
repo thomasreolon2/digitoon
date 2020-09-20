@@ -54,7 +54,7 @@ V0.0.9 Only Android~
 
 <img src="https://i.giphy.com/media/vpDKQimEvQuENfBdqy/giphy.webp" width="250" height="500"> <img src="https://i.ibb.co/DwKhX5L/example.png" width="240" height="500">
 
-## Objetive
+## Objective
 <img src="https://instagram.fnvt1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94477540_259532908425544_3175183312339687719_n.jpg?_nc_ht=instagram.fnvt1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=koT0sX67NnEAX-YQzlp&oh=529aa86ba40da0ede83f426b517aff12&oe=5F90C2EB">
 <img src="https://instagram.fnvt1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/95688270_2748763058684781_3468710427250299789_n.jpg?_nc_ht=instagram.fnvt1-1.fna.fbcdn.net&_nc_cat=109&_nc_ohc=itOkeftdwHcAX-g17hy&oh=68f7c1309355ba03583172811e64885f&oe=5F919FFA">
 
