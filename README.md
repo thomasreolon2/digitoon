@@ -17,8 +17,10 @@ V0.0.9 Only Android~
 ## Release History
 
 * 0.1.4 (Next)
-    * Finish the <ViewShot/> lib to download .png/.jpeg wallpaper art
+    * Config the ViewShot lib to download .png/.jpeg wallpaper art
     * Create the position option of item to change the layer(zIndex) and change manual position (x/y pos)
+    * Anim Lists
+    * Remove Art project
 * 0.0.9 (Concluded)
     * Create a Art Folder
     * Filter Items
