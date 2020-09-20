@@ -1,10 +1,18 @@
 # DigiToon
 > inspiration from @dtdigitoon.
 
+## Up
+
+> Todo's lists /
+> Gestures /
+> Classes /
+> Animatable /
+> PanResponder 
+
 ## Installation
 
 ```sh
-npm install or yarn start
+npm install or yarn install
 ```
 
 Run:
@@ -30,13 +38,6 @@ V0.0.9 Only Android~
     * landscape mode
     * Only Android
 
-## Up
-
-> Todo's lists /
-> Gestures /
-> Classes /
-> Animatable /
-> PanResponder 
 
 ## Contributing
 
