@@ -21,6 +21,7 @@ V0.0.9 Only Android~
     * Create the position option of item to change the layer(zIndex) and change manual position (x/y pos)
     * Anim Lists
     * Remove Art project
+    
 * 0.0.9 (Concluded)
     * Create a Art Folder
     * Filter Items
