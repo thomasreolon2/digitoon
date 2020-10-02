@@ -1,5 +1,5 @@
 # DigiToon
-> inspiration from @dtdigitoon.
+> inspiration from @dtdigitoon IG. (https://www.instagram.com/dtdigitoon/)
 
 ## Up
 
@@ -56,7 +56,7 @@ V0.0.9 Only Android~
 
 ## Preview
 
-<img src="https://i.giphy.com/media/vpDKQimEvQuENfBdqy/giphy.webp" width="250" height="500"> <img src="https://media.giphy.com/media/YdduKkKMVxKSEC2TXh/giphy.gif" width="250" height="500"> <img src="https://i.ibb.co/DwKhX5L/example.png" width="240" height="500">
+<img src="https://media.giphy.com/media/vpDKQimEvQuENfBdqy/giphy.gif" width="250" height="500"> <img src="https://media.giphy.com/media/YdduKkKMVxKSEC2TXh/giphy.gif" width="250" height="500"> <img src="https://i.ibb.co/DwKhX5L/example.png" width="240" height="500">
 
 ## Objective
 <img src="https://instagram.fnvt1-1.fna.fbcdn.net/v/t51.2885-15/sh0.08/e35/s640x640/94477540_259532908425544_3175183312339687719_n.jpg?_nc_ht=instagram.fnvt1-1.fna.fbcdn.net&_nc_cat=104&_nc_ohc=koT0sX67NnEAX-YQzlp&oh=529aa86ba40da0ede83f426b517aff12&oe=5F90C2EB">
