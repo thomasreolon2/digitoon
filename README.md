@@ -52,5 +52,5 @@ V0.0.9 Only Android~
 
 ## Preview
 
-<img src="https://i.giphy.com/media/xBQYsMkJH3k45oEScx/giphy.webp" width="250" height="500"> <img src="https://media.giphy.com/media/YdduKkKMVxKSEC2TXh/giphy.gif" width="250" height="500"> <img src="https://i.ibb.co/DwKhX5L/example.png" width="240" height="500">
+<img src="https://media.giphy.com/media/YdduKkKMVxKSEC2TXh/giphy.gif" width="250" height="500"> <img src="https://i.ibb.co/DwKhX5L/example.png" width="240" height="500">
 
