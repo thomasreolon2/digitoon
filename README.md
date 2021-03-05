@@ -45,8 +45,7 @@ V0.0.9 Only Android~
 3. Push to the branch (`git push origin feature/fooBar`)
 4. Create a new Pull Request
 
-## OBS:
- <h3>I'm not a good artist ​​I cutted some parts of the arts and I painted :rofl:	</h3>
+
 
 
 
